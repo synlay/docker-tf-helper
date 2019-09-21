@@ -8,4 +8,4 @@ See [tf-helper](https://github.com/hashicorp-community/tf-helper) for more detai
 
 ## Custom Terraform Helper Plugins
 
-* [queueplan](tfh_plugins/queueplan) - Queues a plan for a workspace configured for remote execution
+* [queueplan](tfh_plugins/queueplan/tfh_queueplan.md) - Queues a plan for a workspace configured for remote execution
